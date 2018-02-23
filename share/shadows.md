@@ -16,7 +16,7 @@ layout: default
 |a.isxc.bid|![](https://global.ishadowx.net/img/qr/sgaxxoo.png)|
 |b.isxc.bid|![](https://global.ishadowx.net/img/qr/sgbxxoo.png)|
 
-[back](./)
+[back](./index)
 
 
 
