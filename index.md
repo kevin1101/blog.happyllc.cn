@@ -4,6 +4,8 @@ layout: default
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
 
+[Kevin's resume](resume).
+
 [Link to another page](share/shadows).
 
 There should be whitespace between paragraphs.
